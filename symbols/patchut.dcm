@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD5668
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5628_5648_5668.pdf
+$ENDCMP
+#
 $CMP BluePill
 D Pluepill microcontroller board
 K Microcontroller Bluepill STM32
