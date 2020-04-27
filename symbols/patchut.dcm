@@ -5,7 +5,7 @@ F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5628_564
 $ENDCMP
 #
 $CMP BluePill
-D Pluepill microcontroller board
+D Bluepill microcontroller board
 K Microcontroller Bluepill STM32
 $ENDCMP
 #
