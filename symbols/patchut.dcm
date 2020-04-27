@@ -1,6 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP AD5668
+D Octal, 16-bit, SPI, voltage output DAC
+K DAC
 F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5628_5648_5668.pdf
 $ENDCMP
 #
