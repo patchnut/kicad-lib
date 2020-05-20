@@ -11,4 +11,8 @@ D Bluepill microcontroller board
 K Microcontroller Bluepill STM32
 $ENDCMP
 #
+$CMP THAT1646S08
+D THAT1646 balanced line driver SOIC-8
+$ENDCMP
+#
 #End Doc Library
