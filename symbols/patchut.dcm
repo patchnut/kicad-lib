@@ -16,7 +16,7 @@ D THAT1646 balanced line driver SOIC-8
 $ENDCMP
 #
 $CMP THAT1646W16
-D THAT1646 balanced line driver SOIC-8
+D THAT1646 balanced line driver SOIC-16
 $ENDCMP
 #
 #End Doc Library
