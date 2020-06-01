@@ -11,11 +11,6 @@ D Bluepill microcontroller board
 K Microcontroller Bluepill STM32
 $ENDCMP
 #
-$CMP BluePill_new
-D Bluepill microcontroller board
-K Microcontroller Bluepill STM32
-$ENDCMP
-#
 $CMP THAT1646S08
 D THAT1646 balanced line driver SOIC-8
 F http://www.thatcorp.com/datashts/THAT_1606-1646_Datasheet.pdf
